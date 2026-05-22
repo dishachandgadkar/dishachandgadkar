@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dishachandgadkar" alt="dishachandgadkar" /></a> </p>
 
-- 🔭 I’m currently working on **Student Placement Predictor**
+- 🔭 I’m currently working on **Movie Recommander System**
 
 - 🌱 I’m currently learning **Deep Learning, NLP, TensorFlow, Data Analytics, and Cloud Technologies**
 
