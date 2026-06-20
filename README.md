@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Disha</h1>
-<h3 align="center">AI & Machine Learning Enthusiast | Data Science | Data Analyst</h3>
+<h3 align="center">AI & Machine Learning Engineer | Data Scientist | Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dishachandgadkar&label=Profile%20views&color=0e75b6&style=flat" alt="dishachandgadkar" /> </p>
 
